@@ -1,0 +1,23 @@
+name: Loclio Maker Labs
+favicon: null
+layout_spectrum: 0.4114965572953224
+typography_spectrum: 0.8690588967874646
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5681753112003207
+  lightness: 0.05141810001805425
+  saturation: 0.3068825672380626
+  rhythmicContrast: 0.8423088658601046
+purpose: []
